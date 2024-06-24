@@ -1,0 +1,11 @@
+/dist/js
+
+# Diretório de configuração do TypeScript
+tsconfig.tsbuildinfo
+
+
+# Arquivos gerados por compiladores
+*.js
+
+*.txt
+
